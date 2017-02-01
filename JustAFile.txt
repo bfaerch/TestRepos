@@ -1,1 +1,3 @@
 Test forbindelse til github.
+
+Lad os finde en god windows gui client - generel - uafhængig 
