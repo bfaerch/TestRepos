@@ -5,3 +5,4 @@ Second change in test.branch
 3. ændring
 ----
 Dette er ændringer til den anden branch, hvor vi prøver at lave en rebase...
+2. ændring
