@@ -1,3 +1,4 @@
 Version 1.0 Beta 2
 ----
-First changes in test_merge_branch
+First change in test_merge_branch
+Second change in test.branch
