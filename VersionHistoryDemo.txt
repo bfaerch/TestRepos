@@ -8,4 +8,6 @@ Dette er ændringer til den anden branch, hvor vi prøver at lave en rebase...
 2. ændring
 3. ændring
 -----
-Rebase test nummer 2
+Rebase2 - commit1
+Rebase2 - commit2
+
