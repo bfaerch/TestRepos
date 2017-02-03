@@ -1,3 +1,24 @@
 Test forbindelse til github.
 
 Lad os finde en god windows gui client - generel - uafhængig 
+-----------------------
+Der er flere varianter. Det vi kan have af ønsker til den, kunne være:
+
+-fælles for svn, git og hg
+-god visning af "source træ"
+-God editor for merge".
+-Simpel setup for remote repostory (mest git + hg) Findes der gode Hg repos?
+
+
+----------------------
+KANDIDATER
+----------------------
+-commandline (git)
+-sourcetree (git, hg)
+-tortoise (git/svn) Tilsvarende, men forskellige klienter.
+...
+
+
+
+
+
