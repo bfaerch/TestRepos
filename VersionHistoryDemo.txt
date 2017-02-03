@@ -10,4 +10,6 @@ Dette er ændringer til den anden branch, hvor vi prøver at lave en rebase...
 -----
 Rebase2 - commit1
 Rebase2 - commit2
+Rebase2 - commit3
+
 
