@@ -1,15 +1,3 @@
 Version 1.0 Beta 2
 ----
-First change in test_merge_branch
-Second change in test.branch
-3. ændring
-----
-Dette er ændringer til den anden branch, hvor vi prøver at lave en rebase...
-2. ændring
-3. ændring
------
-Rebase2 - commit1
-Rebase2 - commit2
-Rebase2 - commit3
-
 
