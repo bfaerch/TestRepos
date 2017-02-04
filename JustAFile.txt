@@ -10,14 +10,18 @@ Der er flere varianter. Det vi kan have af ønsker til den, kunne være:
 -Simpel setup for remote repostory (mest git + hg) Findes der gode Hg repos?
 
 
-----------------------
+====================
 KANDIDATER
-----------------------
+====================
 -commandline (git)
--sourcetree (git, hg)
--tortoise (git/svn) Tilsvarende, men forskellige klienter.
-...
-
+-sourcetree (git, hg - (git-svn))
+-tortoise (git/svn) (forskellige klienter - måske besværlig setup af externe enheder).
+-git extentions (git) (kun windows)
+-------------------
+Delvis gratis
+-------------------
+-git Kraken (git)   				Gratis - non commercial, ellers koster det lidt
+-smartgit 
 
 
 
